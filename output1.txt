@@ -1,0 +1,172 @@
+
+
+          -------Program Execution-------
+
+
+Header File
+Main Function Started
+
+
+Only semocolon statement executed
+
+
+Successfully declared variable
+
+Successfully declared variable
+
+Successfully declared variable
+
+!<....this is for comment....>!
+
+
+!<.....scan for scanf.......>!
+fortakinginput:
+!<....print is for printf....>!
+0
+
+Assignment Done
+
+Assignment Done
+
+!<....Different Operators....>!
+
+Assignment Done
+-a:-5
+
+Assignment Done
+a++:6
+
+Assignment Done
+a--:4
+
+Assignment Done
+a+b:11
+
+Assignment Done
+a-b:-1
+
+Assignment Done
+a*b:30
+
+Assignment Done
+a/b:1
+
+Assignment Done
+a%b:1
+
+Assignment Done
+a^b:15625
+
+Assignment Done
+a<b:1
+
+Assignment Done
+a<=b:1
+
+Assignment Done
+a>b:0
+
+Assignment Done
+a>=b:0
+sinOf30:-0.988032
+cosOf30:0.154251
+tanOf30:-6.405331
+logOf30:1.477121
+lnOf30:3.401197
+sqrtOf305.477226
+
+Assignment Done
+checkIfa&bEqual:0
+
+Assignment Done
+checkIfa&bNotEqual:1
+
+Assignment Done
+a&b:1
+
+Assignment Done
+a|b:1
+
+Assignment Done
+aXorb:3
+
+Assignment Done
+maximumOfa&b:6
+
+Assignment Done
+minimumOfa&b:5
+
+Assignment Done
+factorialOfa:120
+
+Assignment Done
+notOf1:0
+
+!<-----conditional statement------->!
+
+If block:True
+
+Assignment Done
+
+If block:True
+NestedIf:
+NestedElse:
+
+Else block:False
+
+Assignment Done
+
+Else if block:False
+
+Assignment Done
+
+Else block:False
+
+!<-----For loop ----->!
+Hello
+Step no : 0
+Step no : 3
+Step no : 6
+Step no : 9
+Step no : 12
+Step no : 15
+
+Loop has turned around 6 times
+
+!<----While loop:this decrements by one works as reverse of for loop---->!
+Hii
+Step no :6
+Step no :5
+Step no :4
+Step no :3
+Step no :2
+Step no :1
+
+Loop has turned around 6 times
+
+!<---Function--->!
+GCD of 5 & 6 is 1
+valueOfa:5
+valueOfb:6
+
+Assignment Done
+
+!<---Switch statement--->!
+
+Assignment Done
+
+Assignment Done
+
+Assignment Done
+
+Assignment Done
+Case :1 is False
+Case :2 is False
+Case :3 is True
+Default Case is False
+
+
+User define function defined
+
+
+Compilation Successful!!!

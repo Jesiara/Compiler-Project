@@ -1,0 +1,198 @@
+##importing->stdio.h
+int mainfunc
+{{
+;
+int a , b , c;
+float bb;
+char cc;
+!<....this is for comment....>!
+scan(c);
+print(/);
+!<.....scan for scanf.......>!
+print("fortakinginput:");
+!<....print is for printf....>!
+print(c);
+print(/);
+a:=5;
+b:=6;
+!<....Different Operators....>!
+c:= biyog a ;
+print("-a:");
+print(c);
+print(/);
+c:=a pp;
+print("a++:");
+print(c);
+print(/);
+c:= a mm;
+print("a--:");
+print(c);
+print(/);
+c:= a jog b;
+print("a+b:");
+print(c);
+print(/);
+c:= a biyog b;
+print("a-b:");
+print(c);
+print(/);
+c:= a gun b;
+print("a*b:");
+print(c);
+print(/);
+c:= b vag a;
+print("a/b:");
+print(c);
+print(/);
+c:= b mod a;
+print("a%b:");
+print(c);
+print(/);
+c:= a pow b;
+print("a^b:");
+print(c);
+print(/);
+c:= a lt b;
+print("a<b:");
+print(c);
+print(/);
+c:= a lte b;
+print("a<=b:");
+print(c);
+print(/);
+c:= a gt b;
+print("a>b:");
+print(c);
+print(/);
+c:= a gte b;
+print("a>=b:");
+print(c);
+print(/);
+print("sinOf30:");
+print(sin(30));
+print(/);
+print("cosOf30:");
+print(cos(30));
+print(/);
+print("tanOf30:");
+print(tan(30));
+print(/);
+print("logOf30:");
+print(log(30));
+print(/);
+print("lnOf30:");
+print(ln(30));
+print(/);
+print("sqrtOf30");
+print(sqr(30));
+print(/);
+c:= a :== b;
+print("checkIfa&bEqual:");
+print(c);
+print(/);
+c:= a !:= b;
+print("checkIfa&bNotEqual:");
+print(c);
+print(/);
+c:= a and b;
+print("a&b:");
+print(c);
+print(/);
+c:= a or b;
+print("a|b:");
+print(c);
+print(/);
+c:= a xor b;
+print("aXorb:");
+print(c);
+print(/);
+c:= max(a,b);
+print("maximumOfa&b:");
+print(c);
+print(/);
+c:= min(a,b);
+print("minimumOfa&b:");
+print(c);
+print(/);
+c:= a fact;
+print("factorialOfa:");
+print(c);
+print(/);
+c:= not 1;
+print("notOf1:");
+print(c);
+print(/);
+!<-----conditional statement------->!
+jodi (a lt b )
+{
+    c:=a;
+    jodi(a!:=0)
+    {
+        print("NestedIf:");
+        print(/);
+    }
+    noyto
+    {
+        print("NestedElse:");
+        print(/); 
+    } 
+}
+nahole (a :== b)
+{
+    c:= a jog b;
+}
+noyto
+{
+    c:=b;
+}
+!<-----For loop ----->!
+forloop < 0 > forend < 15 > step < 3 >
+{
+    print("Hello");
+    print(/);
+}
+
+!<----While loop:this decrements by one works as reverse of for loop---->!
+while <6> do
+{
+    print("Hii");
+    print(/);
+}
+!<---Function--->!
+a->gcdd(b);
+a->swapp(b);
+print("valueOfa:");
+print(a);
+print(/);
+print("valueOfb:");
+print(b);
+print(/);
+c:=3;
+
+!<---Switch statement--->!
+switch (c)
+{
+    default :
+    {
+        c:=0;
+    }
+     case 3:
+    {
+        c:=3;
+    }
+    case 2 :
+    {
+        c:=2;
+    }
+    case 1 :
+    {
+        c:=1;
+    }
+}
+}}
+
+
+func->func11(int l)
+{
+
+}
